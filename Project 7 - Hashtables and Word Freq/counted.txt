@@ -1,0 +1,11 @@
+Total word count: 11
+This : 1
+I'm : 1
+is : 1
+a : 1
+file : 1
+new : 2
+text : 1
+something : 1
+out : 1
+trying : 1
